@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class main {
     //Replace with user's database connection details
-    private static final String url = "jdbc:postgresql://localhost:5432/School";
-    private static final String user = "postgres";
-    private static final String password = "teremi74";
+    private static final String url = "jdbc:postgresql://localhost:5432/your database name";
+    private static final String user = "your username";
+    private static final String password = "your password";
     public static void main(String[] args){
         //main menu for user interaction
         Scanner sc = new Scanner(System.in);

@@ -5,7 +5,7 @@ This program implements a PostgreSQL database using the provided schema and is c
 ##List of files:
   - readme.txt 
   - database_schema.sql
-  - main.java (Assignment3 > src > main > java > main.java)
+  - main.java
 
 ##Video Link:
   -

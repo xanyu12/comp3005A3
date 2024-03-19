@@ -8,7 +8,7 @@ This program implements a PostgreSQL database using the provided schema and is c
   - main.java
 
 ##Video Link:
-  -
+  - https://youtu.be/y2r1oZbFVbM
 
 ##Launching and Operation:
   1. In the main.java file replace the url "jdbc:postgresql://localhost:5432/your_database_name", the username and password with your actual database connection information\
